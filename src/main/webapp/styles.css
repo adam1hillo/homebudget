@@ -1,0 +1,49 @@
+body {
+    background-color: wheat;
+}
+
+h1 {
+    text-align: center;
+}
+
+.keybord-inputs {
+    display: block;
+}
+
+main {
+    margin: auto;
+    max-width: 600px;
+    text-align: center;
+}
+
+fieldset {
+    border-color: darkred;
+}
+label, button {
+    margin: 10px;
+}
+table {
+    width: 100%;
+}
+
+.incomes {
+    border: 2px solid green;
+}
+
+.expenses {
+    border: 2px solid darkred;
+}
+
+tr, td {
+    border: 1px solid gray;
+    width: 100%;
+}
+
+a {
+    background-color: darkolivegreen;
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 5px;
+    border-radius: 5px;
+}
